@@ -27,10 +27,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import org.openapitools.client.model.CheckRestart;
-import org.openapitools.client.model.ConsulConnect;
-import org.openapitools.client.model.ServiceCheck;
-import org.openapitools.client.model.WorkloadIdentity;
+import io.nomadproject.client.model.CheckRestart;
+import io.nomadproject.client.model.ConsulConnect;
+import io.nomadproject.client.model.ServiceCheck;
+import io.nomadproject.client.model.WorkloadIdentity;
 
 /**
  * Service

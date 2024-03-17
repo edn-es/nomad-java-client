@@ -14,7 +14,7 @@
 package io.nomadproject.client.auth;
 
 import io.nomadproject.client.Pair;
-import org.openapitools.client.Pair;
+import io.nomadproject.client.Pair;
 
 import okhttp3.Credentials;
 

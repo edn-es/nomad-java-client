@@ -26,8 +26,8 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import org.openapitools.client.model.LogConfig;
-import org.openapitools.client.model.Resources;
+import io.nomadproject.client.model.LogConfig;
+import io.nomadproject.client.model.Resources;
 
 /**
  * SidecarTask

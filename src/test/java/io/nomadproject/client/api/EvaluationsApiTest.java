@@ -13,9 +13,9 @@
 
 package io.nomadproject.client.api;
 
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.AllocationListStub;
-import org.openapitools.client.model.Evaluation;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.model.AllocationListStub;
+import io.nomadproject.client.model.Evaluation;
 import org.junit.Test;
 import org.junit.Ignore;
 

@@ -13,11 +13,11 @@
 
 package io.nomadproject.client.api;
 
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.FuzzySearchRequest;
-import org.openapitools.client.model.FuzzySearchResponse;
-import org.openapitools.client.model.SearchRequest;
-import org.openapitools.client.model.SearchResponse;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.model.FuzzySearchRequest;
+import io.nomadproject.client.model.FuzzySearchResponse;
+import io.nomadproject.client.model.SearchRequest;
+import io.nomadproject.client.model.SearchResponse;
 import org.junit.Test;
 import org.junit.Ignore;
 

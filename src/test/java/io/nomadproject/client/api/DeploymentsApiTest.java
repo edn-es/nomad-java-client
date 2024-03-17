@@ -14,14 +14,14 @@
 package io.nomadproject.client.api;
 
 import io.nomadproject.client.model.DeploymentPromoteRequest;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.AllocationListStub;
-import org.openapitools.client.model.Deployment;
-import org.openapitools.client.model.DeploymentAllocHealthRequest;
-import org.openapitools.client.model.DeploymentPauseRequest;
-import org.openapitools.client.model.DeploymentPromoteRequest;
-import org.openapitools.client.model.DeploymentUnblockRequest;
-import org.openapitools.client.model.DeploymentUpdateResponse;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.model.AllocationListStub;
+import io.nomadproject.client.model.Deployment;
+import io.nomadproject.client.model.DeploymentAllocHealthRequest;
+import io.nomadproject.client.model.DeploymentPauseRequest;
+import io.nomadproject.client.model.DeploymentPromoteRequest;
+import io.nomadproject.client.model.DeploymentUnblockRequest;
+import io.nomadproject.client.model.DeploymentUpdateResponse;
 import org.junit.Test;
 import org.junit.Ignore;
 

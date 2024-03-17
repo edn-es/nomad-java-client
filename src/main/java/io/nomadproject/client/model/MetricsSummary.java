@@ -25,9 +25,9 @@ import io.swagger.annotations.ApiModelProperty;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import org.openapitools.client.model.GaugeValue;
-import org.openapitools.client.model.PointValue;
-import org.openapitools.client.model.SampledValue;
+import io.nomadproject.client.model.GaugeValue;
+import io.nomadproject.client.model.PointValue;
+import io.nomadproject.client.model.SampledValue;
 
 /**
  * MetricsSummary

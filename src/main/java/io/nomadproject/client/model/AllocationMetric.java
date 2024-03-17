@@ -27,8 +27,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import org.openapitools.client.model.NodeScoreMeta;
-import org.openapitools.client.model.Resources;
+import io.nomadproject.client.model.NodeScoreMeta;
+import io.nomadproject.client.model.Resources;
 
 /**
  * AllocationMetric

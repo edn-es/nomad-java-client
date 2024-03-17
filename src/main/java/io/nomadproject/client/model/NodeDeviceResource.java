@@ -27,8 +27,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import org.openapitools.client.model.Attribute;
-import org.openapitools.client.model.NodeDevice;
+import io.nomadproject.client.model.Attribute;
+import io.nomadproject.client.model.NodeDevice;
 
 /**
  * NodeDeviceResource

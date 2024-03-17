@@ -27,10 +27,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import org.openapitools.client.model.AllocDeploymentStatus;
-import org.openapitools.client.model.AllocatedResources;
-import org.openapitools.client.model.RescheduleTracker;
-import org.openapitools.client.model.TaskState;
+import io.nomadproject.client.model.AllocDeploymentStatus;
+import io.nomadproject.client.model.AllocatedResources;
+import io.nomadproject.client.model.RescheduleTracker;
+import io.nomadproject.client.model.TaskState;
 
 /**
  * AllocationListStub

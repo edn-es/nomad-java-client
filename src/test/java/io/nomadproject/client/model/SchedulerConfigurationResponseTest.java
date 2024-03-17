@@ -21,7 +21,7 @@ import com.google.gson.stream.JsonWriter;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import java.io.IOException;
-import org.openapitools.client.model.SchedulerConfiguration;
+import io.nomadproject.client.model.SchedulerConfiguration;
 import org.junit.Assert;
 import org.junit.Ignore;
 import org.junit.Test;

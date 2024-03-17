@@ -23,10 +23,10 @@ import com.google.gson.stream.JsonWriter;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import java.io.IOException;
-import org.openapitools.client.model.NodeReservedCpuResources;
-import org.openapitools.client.model.NodeReservedDiskResources;
-import org.openapitools.client.model.NodeReservedMemoryResources;
-import org.openapitools.client.model.NodeReservedNetworkResources;
+import io.nomadproject.client.model.NodeReservedCpuResources;
+import io.nomadproject.client.model.NodeReservedDiskResources;
+import io.nomadproject.client.model.NodeReservedMemoryResources;
+import io.nomadproject.client.model.NodeReservedNetworkResources;
 
 /**
  * NodeReservedResources

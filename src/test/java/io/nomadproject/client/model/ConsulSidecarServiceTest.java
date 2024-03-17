@@ -25,7 +25,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import org.openapitools.client.model.ConsulProxy;
+import io.nomadproject.client.model.ConsulProxy;
 import org.junit.Assert;
 import org.junit.Ignore;
 import org.junit.Test;

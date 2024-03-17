@@ -23,8 +23,8 @@ import com.google.gson.stream.JsonWriter;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import java.io.IOException;
-import org.openapitools.client.model.ChangeScript;
-import org.openapitools.client.model.WaitConfig;
+import io.nomadproject.client.model.ChangeScript;
+import io.nomadproject.client.model.WaitConfig;
 
 /**
  * Template

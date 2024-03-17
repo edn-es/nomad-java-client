@@ -23,8 +23,8 @@ import com.google.gson.stream.JsonWriter;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import java.io.IOException;
-import org.openapitools.client.model.CSIControllerInfo;
-import org.openapitools.client.model.CSINodeInfo;
+import io.nomadproject.client.model.CSIControllerInfo;
+import io.nomadproject.client.model.CSINodeInfo;
 import org.threeten.bp.OffsetDateTime;
 
 /**

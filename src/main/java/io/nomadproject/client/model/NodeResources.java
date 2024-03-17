@@ -25,11 +25,11 @@ import io.swagger.annotations.ApiModelProperty;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import org.openapitools.client.model.NetworkResource;
-import org.openapitools.client.model.NodeCpuResources;
-import org.openapitools.client.model.NodeDeviceResource;
-import org.openapitools.client.model.NodeDiskResources;
-import org.openapitools.client.model.NodeMemoryResources;
+import io.nomadproject.client.model.NetworkResource;
+import io.nomadproject.client.model.NodeCpuResources;
+import io.nomadproject.client.model.NodeDeviceResource;
+import io.nomadproject.client.model.NodeDiskResources;
+import io.nomadproject.client.model.NodeMemoryResources;
 
 /**
  * NodeResources

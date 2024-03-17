@@ -25,8 +25,8 @@ import io.swagger.annotations.ApiModelProperty;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import org.openapitools.client.model.TaskEvent;
-import org.openapitools.client.model.TaskHandle;
+import io.nomadproject.client.model.TaskEvent;
+import io.nomadproject.client.model.TaskHandle;
 import org.threeten.bp.OffsetDateTime;
 
 /**

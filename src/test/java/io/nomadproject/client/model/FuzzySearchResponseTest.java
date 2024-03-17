@@ -24,7 +24,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import org.openapitools.client.model.FuzzyMatch;
+import io.nomadproject.client.model.FuzzyMatch;
 import org.junit.Assert;
 import org.junit.Ignore;
 import org.junit.Test;

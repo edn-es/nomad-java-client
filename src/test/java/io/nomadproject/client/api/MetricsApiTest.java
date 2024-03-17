@@ -13,8 +13,8 @@
 
 package io.nomadproject.client.api;
 
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.MetricsSummary;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.model.MetricsSummary;
 import org.junit.Test;
 import org.junit.Ignore;
 

@@ -27,9 +27,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import org.openapitools.client.model.FieldDiff;
-import org.openapitools.client.model.ObjectDiff;
-import org.openapitools.client.model.TaskDiff;
+import io.nomadproject.client.model.FieldDiff;
+import io.nomadproject.client.model.ObjectDiff;
+import io.nomadproject.client.model.TaskDiff;
 
 /**
  * TaskGroupDiff

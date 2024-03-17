@@ -27,16 +27,16 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import org.openapitools.client.model.CSIInfo;
-import org.openapitools.client.model.DrainMetadata;
-import org.openapitools.client.model.DrainStrategy;
-import org.openapitools.client.model.DriverInfo;
-import org.openapitools.client.model.HostNetworkInfo;
-import org.openapitools.client.model.HostVolumeInfo;
-import org.openapitools.client.model.NodeEvent;
-import org.openapitools.client.model.NodeReservedResources;
-import org.openapitools.client.model.NodeResources;
-import org.openapitools.client.model.Resources;
+import io.nomadproject.client.model.CSIInfo;
+import io.nomadproject.client.model.DrainMetadata;
+import io.nomadproject.client.model.DrainStrategy;
+import io.nomadproject.client.model.DriverInfo;
+import io.nomadproject.client.model.HostNetworkInfo;
+import io.nomadproject.client.model.HostVolumeInfo;
+import io.nomadproject.client.model.NodeEvent;
+import io.nomadproject.client.model.NodeReservedResources;
+import io.nomadproject.client.model.NodeResources;
+import io.nomadproject.client.model.Resources;
 
 /**
  * Node

@@ -27,16 +27,16 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import org.openapitools.client.model.Affinity;
-import org.openapitools.client.model.Constraint;
-import org.openapitools.client.model.MigrateStrategy;
-import org.openapitools.client.model.Multiregion;
-import org.openapitools.client.model.ParameterizedJobConfig;
-import org.openapitools.client.model.PeriodicConfig;
-import org.openapitools.client.model.ReschedulePolicy;
-import org.openapitools.client.model.Spread;
-import org.openapitools.client.model.TaskGroup;
-import org.openapitools.client.model.UpdateStrategy;
+import io.nomadproject.client.model.Affinity;
+import io.nomadproject.client.model.Constraint;
+import io.nomadproject.client.model.MigrateStrategy;
+import io.nomadproject.client.model.Multiregion;
+import io.nomadproject.client.model.ParameterizedJobConfig;
+import io.nomadproject.client.model.PeriodicConfig;
+import io.nomadproject.client.model.ReschedulePolicy;
+import io.nomadproject.client.model.Spread;
+import io.nomadproject.client.model.TaskGroup;
+import io.nomadproject.client.model.UpdateStrategy;
 
 /**
  * Job

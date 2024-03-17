@@ -15,15 +15,15 @@ package io.nomadproject.client.api;
 
 import io.nomadproject.client.model.CSIVolume;
 import io.nomadproject.client.model.CSIVolumeCreateRequest;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.CSISnapshotCreateRequest;
-import org.openapitools.client.model.CSISnapshotCreateResponse;
-import org.openapitools.client.model.CSISnapshotListResponse;
-import org.openapitools.client.model.CSIVolume;
-import org.openapitools.client.model.CSIVolumeCreateRequest;
-import org.openapitools.client.model.CSIVolumeListExternalResponse;
-import org.openapitools.client.model.CSIVolumeListStub;
-import org.openapitools.client.model.CSIVolumeRegisterRequest;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.model.CSISnapshotCreateRequest;
+import io.nomadproject.client.model.CSISnapshotCreateResponse;
+import io.nomadproject.client.model.CSISnapshotListResponse;
+import io.nomadproject.client.model.CSIVolume;
+import io.nomadproject.client.model.CSIVolumeCreateRequest;
+import io.nomadproject.client.model.CSIVolumeListExternalResponse;
+import io.nomadproject.client.model.CSIVolumeListStub;
+import io.nomadproject.client.model.CSIVolumeRegisterRequest;
 import org.junit.Test;
 import org.junit.Ignore;
 

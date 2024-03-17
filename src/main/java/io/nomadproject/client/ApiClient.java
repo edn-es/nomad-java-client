@@ -49,10 +49,10 @@ import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.openapitools.client.auth.Authentication;
-import org.openapitools.client.auth.HttpBasicAuth;
-import org.openapitools.client.auth.HttpBearerAuth;
-import org.openapitools.client.auth.ApiKeyAuth;
+import io.nomadproject.client.auth.Authentication;
+import io.nomadproject.client.auth.HttpBasicAuth;
+import io.nomadproject.client.auth.HttpBearerAuth;
+import io.nomadproject.client.auth.ApiKeyAuth;
 
 public class ApiClient {
 

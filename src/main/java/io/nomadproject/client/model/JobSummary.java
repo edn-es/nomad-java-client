@@ -26,8 +26,8 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import org.openapitools.client.model.JobChildrenSummary;
-import org.openapitools.client.model.TaskGroupSummary;
+import io.nomadproject.client.model.JobChildrenSummary;
+import io.nomadproject.client.model.TaskGroupSummary;
 
 /**
  * JobSummary

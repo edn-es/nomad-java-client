@@ -25,8 +25,8 @@ import io.swagger.annotations.ApiModelProperty;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import org.openapitools.client.model.MultiregionRegion;
-import org.openapitools.client.model.MultiregionStrategy;
+import io.nomadproject.client.model.MultiregionRegion;
+import io.nomadproject.client.model.MultiregionStrategy;
 
 /**
  * Multiregion

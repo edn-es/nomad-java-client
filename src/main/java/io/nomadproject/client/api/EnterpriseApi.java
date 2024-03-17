@@ -15,21 +15,21 @@ package io.nomadproject.client.api;
 
 import io.nomadproject.client.*;
 import io.nomadproject.client.model.QuotaSpec;
-import org.openapitools.client.ApiCallback;
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.ApiResponse;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.Pair;
-import org.openapitools.client.ProgressRequestBody;
-import org.openapitools.client.ProgressResponseBody;
+import io.nomadproject.client.ApiCallback;
+import io.nomadproject.client.ApiClient;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.ApiResponse;
+import io.nomadproject.client.Configuration;
+import io.nomadproject.client.Pair;
+import io.nomadproject.client.ProgressRequestBody;
+import io.nomadproject.client.ProgressResponseBody;
 
 import com.google.gson.reflect.TypeToken;
 
 import java.io.IOException;
 
 
-import org.openapitools.client.model.QuotaSpec;
+import io.nomadproject.client.model.QuotaSpec;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

@@ -14,8 +14,8 @@
 package io.nomadproject.client.api;
 
 import io.nomadproject.client.model.Namespace;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.Namespace;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.model.Namespace;
 import org.junit.Test;
 import org.junit.Ignore;
 

@@ -13,9 +13,9 @@
 
 package io.nomadproject.client.api;
 
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.ScalingPolicy;
-import org.openapitools.client.model.ScalingPolicyListStub;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.model.ScalingPolicy;
+import io.nomadproject.client.model.ScalingPolicyListStub;
 import org.junit.Test;
 import org.junit.Ignore;
 

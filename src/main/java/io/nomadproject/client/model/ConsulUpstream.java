@@ -26,7 +26,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import org.openapitools.client.model.ConsulMeshGateway;
+import io.nomadproject.client.model.ConsulMeshGateway;
 
 /**
  * ConsulUpstream

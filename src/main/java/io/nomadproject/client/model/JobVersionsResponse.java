@@ -25,8 +25,8 @@ import io.swagger.annotations.ApiModelProperty;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import org.openapitools.client.model.Job;
-import org.openapitools.client.model.JobDiff;
+import io.nomadproject.client.model.Job;
+import io.nomadproject.client.model.JobDiff;
 
 /**
  * JobVersionsResponse

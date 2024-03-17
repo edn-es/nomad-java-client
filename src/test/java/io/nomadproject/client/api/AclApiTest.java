@@ -14,13 +14,13 @@
 package io.nomadproject.client.api;
 
 import io.nomadproject.client.model.ACLPolicyListStub;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.ACLPolicy;
-import org.openapitools.client.model.ACLPolicyListStub;
-import org.openapitools.client.model.ACLToken;
-import org.openapitools.client.model.ACLTokenListStub;
-import org.openapitools.client.model.OneTimeToken;
-import org.openapitools.client.model.OneTimeTokenExchangeRequest;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.model.ACLPolicy;
+import io.nomadproject.client.model.ACLPolicyListStub;
+import io.nomadproject.client.model.ACLToken;
+import io.nomadproject.client.model.ACLTokenListStub;
+import io.nomadproject.client.model.OneTimeToken;
+import io.nomadproject.client.model.OneTimeTokenExchangeRequest;
 import org.junit.Test;
 import org.junit.Ignore;
 

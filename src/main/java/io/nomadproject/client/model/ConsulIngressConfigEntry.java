@@ -25,8 +25,8 @@ import io.swagger.annotations.ApiModelProperty;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import org.openapitools.client.model.ConsulGatewayTLSConfig;
-import org.openapitools.client.model.ConsulIngressListener;
+import io.nomadproject.client.model.ConsulGatewayTLSConfig;
+import io.nomadproject.client.model.ConsulIngressListener;
 
 /**
  * ConsulIngressConfigEntry

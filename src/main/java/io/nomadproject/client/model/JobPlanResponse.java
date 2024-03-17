@@ -27,10 +27,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import org.openapitools.client.model.AllocationMetric;
-import org.openapitools.client.model.Evaluation;
-import org.openapitools.client.model.JobDiff;
-import org.openapitools.client.model.PlanAnnotations;
+import io.nomadproject.client.model.AllocationMetric;
+import io.nomadproject.client.model.Evaluation;
+import io.nomadproject.client.model.JobDiff;
+import io.nomadproject.client.model.PlanAnnotations;
 import org.threeten.bp.OffsetDateTime;
 
 /**

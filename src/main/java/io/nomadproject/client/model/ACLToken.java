@@ -25,7 +25,7 @@ import io.swagger.annotations.ApiModelProperty;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import org.openapitools.client.model.ACLTokenRoleLink;
+import io.nomadproject.client.model.ACLTokenRoleLink;
 import org.threeten.bp.OffsetDateTime;
 
 /**

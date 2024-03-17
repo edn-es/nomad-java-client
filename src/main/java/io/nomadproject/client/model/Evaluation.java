@@ -27,8 +27,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import org.openapitools.client.model.AllocationMetric;
-import org.openapitools.client.model.EvaluationStub;
+import io.nomadproject.client.model.AllocationMetric;
+import io.nomadproject.client.model.EvaluationStub;
 import org.threeten.bp.OffsetDateTime;
 
 /**

@@ -27,8 +27,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import org.openapitools.client.model.ConsulExposeConfig;
-import org.openapitools.client.model.ConsulUpstream;
+import io.nomadproject.client.model.ConsulExposeConfig;
+import io.nomadproject.client.model.ConsulUpstream;
 
 /**
  * ConsulProxy

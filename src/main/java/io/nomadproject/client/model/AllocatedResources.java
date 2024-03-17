@@ -26,8 +26,8 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import org.openapitools.client.model.AllocatedSharedResources;
-import org.openapitools.client.model.AllocatedTaskResources;
+import io.nomadproject.client.model.AllocatedSharedResources;
+import io.nomadproject.client.model.AllocatedTaskResources;
 
 /**
  * AllocatedResources

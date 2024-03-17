@@ -13,7 +13,7 @@
 
 package io.nomadproject.client.api;
 
-import org.openapitools.client.ApiException;
+import io.nomadproject.client.ApiException;
 import org.junit.Test;
 import org.junit.Ignore;
 

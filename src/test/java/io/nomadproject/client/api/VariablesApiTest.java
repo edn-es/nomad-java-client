@@ -13,9 +13,9 @@
 
 package io.nomadproject.client.api;
 
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.Variable;
-import org.openapitools.client.model.VariableMetadata;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.model.Variable;
+import io.nomadproject.client.model.VariableMetadata;
 import org.junit.Test;
 import org.junit.Ignore;
 

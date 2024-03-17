@@ -23,12 +23,12 @@ Method | HTTP request | Description
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DeploymentsApi;
+import io.nomadproject.client.ApiClient;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.Configuration;
+import io.nomadproject.client.auth.*;
+import io.nomadproject.client.models.*;
+import io.nomadproject.client.api.DeploymentsApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -112,12 +112,12 @@ Name | Type | Description  | Notes
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DeploymentsApi;
+import io.nomadproject.client.ApiClient;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.Configuration;
+import io.nomadproject.client.auth.*;
+import io.nomadproject.client.models.*;
+import io.nomadproject.client.api.DeploymentsApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -201,12 +201,12 @@ Name | Type | Description  | Notes
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DeploymentsApi;
+import io.nomadproject.client.ApiClient;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.Configuration;
+import io.nomadproject.client.auth.*;
+import io.nomadproject.client.models.*;
+import io.nomadproject.client.api.DeploymentsApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -288,12 +288,12 @@ Name | Type | Description  | Notes
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DeploymentsApi;
+import io.nomadproject.client.ApiClient;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.Configuration;
+import io.nomadproject.client.auth.*;
+import io.nomadproject.client.models.*;
+import io.nomadproject.client.api.DeploymentsApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -369,12 +369,12 @@ Name | Type | Description  | Notes
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DeploymentsApi;
+import io.nomadproject.client.ApiClient;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.Configuration;
+import io.nomadproject.client.auth.*;
+import io.nomadproject.client.models.*;
+import io.nomadproject.client.api.DeploymentsApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -448,12 +448,12 @@ Name | Type | Description  | Notes
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DeploymentsApi;
+import io.nomadproject.client.ApiClient;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.Configuration;
+import io.nomadproject.client.auth.*;
+import io.nomadproject.client.models.*;
+import io.nomadproject.client.api.DeploymentsApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -529,12 +529,12 @@ Name | Type | Description  | Notes
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DeploymentsApi;
+import io.nomadproject.client.ApiClient;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.Configuration;
+import io.nomadproject.client.auth.*;
+import io.nomadproject.client.models.*;
+import io.nomadproject.client.api.DeploymentsApi;
 
 public class Example {
   public static void main(String[] args) {
@@ -610,12 +610,12 @@ Name | Type | Description  | Notes
 ### Example
 ```java
 // Import classes:
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.auth.*;
-import org.openapitools.client.models.*;
-import org.openapitools.client.api.DeploymentsApi;
+import io.nomadproject.client.ApiClient;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.Configuration;
+import io.nomadproject.client.auth.*;
+import io.nomadproject.client.models.*;
+import io.nomadproject.client.api.DeploymentsApi;
 
 public class Example {
   public static void main(String[] args) {

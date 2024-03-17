@@ -15,28 +15,28 @@ package io.nomadproject.client.api;
 
 import io.nomadproject.client.*;
 import io.nomadproject.client.model.*;
-import org.openapitools.client.ApiCallback;
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.ApiResponse;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.Pair;
-import org.openapitools.client.ProgressRequestBody;
-import org.openapitools.client.ProgressResponseBody;
+import io.nomadproject.client.ApiCallback;
+import io.nomadproject.client.ApiClient;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.ApiResponse;
+import io.nomadproject.client.Configuration;
+import io.nomadproject.client.Pair;
+import io.nomadproject.client.ProgressRequestBody;
+import io.nomadproject.client.ProgressResponseBody;
 
 import com.google.gson.reflect.TypeToken;
 
 import java.io.IOException;
 
 
-import org.openapitools.client.model.CSISnapshotCreateRequest;
-import org.openapitools.client.model.CSISnapshotCreateResponse;
-import org.openapitools.client.model.CSISnapshotListResponse;
-import org.openapitools.client.model.CSIVolume;
-import org.openapitools.client.model.CSIVolumeCreateRequest;
-import org.openapitools.client.model.CSIVolumeListExternalResponse;
-import org.openapitools.client.model.CSIVolumeListStub;
-import org.openapitools.client.model.CSIVolumeRegisterRequest;
+import io.nomadproject.client.model.CSISnapshotCreateRequest;
+import io.nomadproject.client.model.CSISnapshotCreateResponse;
+import io.nomadproject.client.model.CSISnapshotListResponse;
+import io.nomadproject.client.model.CSIVolume;
+import io.nomadproject.client.model.CSIVolumeCreateRequest;
+import io.nomadproject.client.model.CSIVolumeListExternalResponse;
+import io.nomadproject.client.model.CSIVolumeListStub;
+import io.nomadproject.client.model.CSIVolumeRegisterRequest;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

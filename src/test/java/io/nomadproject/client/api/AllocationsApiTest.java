@@ -13,11 +13,11 @@
 
 package io.nomadproject.client.api;
 
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.AllocStopResponse;
-import org.openapitools.client.model.Allocation;
-import org.openapitools.client.model.AllocationListStub;
-import org.openapitools.client.model.ServiceRegistration;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.model.AllocStopResponse;
+import io.nomadproject.client.model.Allocation;
+import io.nomadproject.client.model.AllocationListStub;
+import io.nomadproject.client.model.ServiceRegistration;
 import org.junit.Test;
 import org.junit.Ignore;
 

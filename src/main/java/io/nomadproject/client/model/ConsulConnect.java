@@ -23,9 +23,9 @@ import com.google.gson.stream.JsonWriter;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import java.io.IOException;
-import org.openapitools.client.model.ConsulGateway;
-import org.openapitools.client.model.ConsulSidecarService;
-import org.openapitools.client.model.SidecarTask;
+import io.nomadproject.client.model.ConsulGateway;
+import io.nomadproject.client.model.ConsulSidecarService;
+import io.nomadproject.client.model.SidecarTask;
 
 /**
  * ConsulConnect

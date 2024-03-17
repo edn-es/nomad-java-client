@@ -25,10 +25,10 @@ import io.swagger.annotations.ApiModelProperty;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import org.openapitools.client.model.AllocatedCpuResources;
-import org.openapitools.client.model.AllocatedDeviceResource;
-import org.openapitools.client.model.AllocatedMemoryResources;
-import org.openapitools.client.model.NetworkResource;
+import io.nomadproject.client.model.AllocatedCpuResources;
+import io.nomadproject.client.model.AllocatedDeviceResource;
+import io.nomadproject.client.model.AllocatedMemoryResources;
+import io.nomadproject.client.model.NetworkResource;
 
 /**
  * AllocatedTaskResources

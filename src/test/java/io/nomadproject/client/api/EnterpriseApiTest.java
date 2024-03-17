@@ -14,8 +14,8 @@
 package io.nomadproject.client.api;
 
 import io.nomadproject.client.model.QuotaSpec;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.QuotaSpec;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.model.QuotaSpec;
 import org.junit.Test;
 import org.junit.Ignore;
 

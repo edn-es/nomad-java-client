@@ -23,9 +23,9 @@ import com.google.gson.stream.JsonWriter;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import java.io.IOException;
-import org.openapitools.client.model.ConsulGatewayProxy;
-import org.openapitools.client.model.ConsulIngressConfigEntry;
-import org.openapitools.client.model.ConsulTerminatingConfigEntry;
+import io.nomadproject.client.model.ConsulGatewayProxy;
+import io.nomadproject.client.model.ConsulIngressConfigEntry;
+import io.nomadproject.client.model.ConsulTerminatingConfigEntry;
 
 /**
  * ConsulGateway

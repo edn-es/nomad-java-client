@@ -25,8 +25,8 @@ import io.swagger.annotations.ApiModelProperty;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import org.openapitools.client.model.Affinity;
-import org.openapitools.client.model.Constraint;
+import io.nomadproject.client.model.Affinity;
+import io.nomadproject.client.model.Constraint;
 
 /**
  * RequestedDevice

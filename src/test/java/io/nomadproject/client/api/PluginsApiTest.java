@@ -13,9 +13,9 @@
 
 package io.nomadproject.client.api;
 
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.CSIPlugin;
-import org.openapitools.client.model.CSIPluginListStub;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.model.CSIPlugin;
+import io.nomadproject.client.model.CSIPluginListStub;
 import org.junit.Test;
 import org.junit.Ignore;
 

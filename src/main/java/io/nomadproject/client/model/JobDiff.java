@@ -25,9 +25,9 @@ import io.swagger.annotations.ApiModelProperty;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import org.openapitools.client.model.FieldDiff;
-import org.openapitools.client.model.ObjectDiff;
-import org.openapitools.client.model.TaskGroupDiff;
+import io.nomadproject.client.model.FieldDiff;
+import io.nomadproject.client.model.ObjectDiff;
+import io.nomadproject.client.model.TaskGroupDiff;
 
 /**
  * JobDiff

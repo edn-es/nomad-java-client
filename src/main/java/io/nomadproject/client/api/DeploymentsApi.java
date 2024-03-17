@@ -18,27 +18,27 @@ import io.nomadproject.client.model.Deployment;
 import io.nomadproject.client.model.DeploymentAllocHealthRequest;
 import io.nomadproject.client.model.DeploymentPromoteRequest;
 import io.nomadproject.client.model.DeploymentUnblockRequest;
-import org.openapitools.client.ApiCallback;
-import org.openapitools.client.ApiClient;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.ApiResponse;
-import org.openapitools.client.Configuration;
-import org.openapitools.client.Pair;
-import org.openapitools.client.ProgressRequestBody;
-import org.openapitools.client.ProgressResponseBody;
+import io.nomadproject.client.ApiCallback;
+import io.nomadproject.client.ApiClient;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.ApiResponse;
+import io.nomadproject.client.Configuration;
+import io.nomadproject.client.Pair;
+import io.nomadproject.client.ProgressRequestBody;
+import io.nomadproject.client.ProgressResponseBody;
 
 import com.google.gson.reflect.TypeToken;
 
 import java.io.IOException;
 
 
-import org.openapitools.client.model.AllocationListStub;
-import org.openapitools.client.model.Deployment;
-import org.openapitools.client.model.DeploymentAllocHealthRequest;
-import org.openapitools.client.model.DeploymentPauseRequest;
-import org.openapitools.client.model.DeploymentPromoteRequest;
-import org.openapitools.client.model.DeploymentUnblockRequest;
-import org.openapitools.client.model.DeploymentUpdateResponse;
+import io.nomadproject.client.model.AllocationListStub;
+import io.nomadproject.client.model.Deployment;
+import io.nomadproject.client.model.DeploymentAllocHealthRequest;
+import io.nomadproject.client.model.DeploymentPauseRequest;
+import io.nomadproject.client.model.DeploymentPromoteRequest;
+import io.nomadproject.client.model.DeploymentUnblockRequest;
+import io.nomadproject.client.model.DeploymentUpdateResponse;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;

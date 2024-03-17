@@ -14,15 +14,15 @@
 package io.nomadproject.client.api;
 
 import io.nomadproject.client.model.NodeUpdateDrainRequest;
-import org.openapitools.client.ApiException;
-import org.openapitools.client.model.AllocationListStub;
-import org.openapitools.client.model.Node;
-import org.openapitools.client.model.NodeDrainUpdateResponse;
-import org.openapitools.client.model.NodeEligibilityUpdateResponse;
-import org.openapitools.client.model.NodeListStub;
-import org.openapitools.client.model.NodePurgeResponse;
-import org.openapitools.client.model.NodeUpdateDrainRequest;
-import org.openapitools.client.model.NodeUpdateEligibilityRequest;
+import io.nomadproject.client.ApiException;
+import io.nomadproject.client.model.AllocationListStub;
+import io.nomadproject.client.model.Node;
+import io.nomadproject.client.model.NodeDrainUpdateResponse;
+import io.nomadproject.client.model.NodeEligibilityUpdateResponse;
+import io.nomadproject.client.model.NodeListStub;
+import io.nomadproject.client.model.NodePurgeResponse;
+import io.nomadproject.client.model.NodeUpdateDrainRequest;
+import io.nomadproject.client.model.NodeUpdateEligibilityRequest;
 import org.junit.Test;
 import org.junit.Ignore;
 
