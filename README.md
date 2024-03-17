@@ -38,8 +38,8 @@ Add this dependency to your project's POM:
 
 ```xml
 <dependency>
-  <groupId>org.openapitools</groupId>
-  <artifactId>openapi-java-client</artifactId>
+  <groupId>es.edn</groupId>
+  <artifactId>nomad-java-client</artifactId>
   <version>1.7.6</version>
   <scope>compile</scope>
 </dependency>
