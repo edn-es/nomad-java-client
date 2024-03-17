@@ -2,9 +2,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>es.edn</groupId>
-    <artifactId>nomad-java-client</artifactId>
+    <artifactId>nomad-client-java</artifactId>
     <packaging>jar</packaging>
-    <name>nomad-java-client</name>
+    <name>nomad-client-java</name>
     <version>1.7.6</version>
     <url>https://github.com/edn-es/nomad-java-client</url>
     <description>Nomad Java Client</description>
